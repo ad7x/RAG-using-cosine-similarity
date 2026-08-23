@@ -1,2 +1,2 @@
-# RAG-from-Scratch
-Implementing RAG from scratch using cosine similarity algorithm
+# Building RAG-from-Scratch
+Implementing Retrival Augmented Generation from scratch using cosine similarity algorithm
